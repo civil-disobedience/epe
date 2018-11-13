@@ -1,0 +1,16 @@
+{
+  "name": "epe",
+  "version": "1.0.0",
+  "description": "European Parliament Entreprises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "osmosis": "^1.1.8",
+    "stream-chain": "^2.0.3"
+  }
+}
